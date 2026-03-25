@@ -8,10 +8,11 @@
 ---
 
 ## 🌟 About Me
-- 💻 Passionate about **Full Stack Development & AI**
-- 🚀 Building real-world scalable projects
-- 🎯 Goal: Crack **FAANG / Top Product Companies**
-- ⚡ Love solving DSA + building impactful apps
+- 🚀 I build products not just projects
+- 💻 Full Stack Developer blending **MERN + AI** to solve real-world problems
+- 🧠 Exploring **GenAI, RAG, and intelligent systems**
+- ⚡ Obsessed with growth, consistency and leveling up every day
+
 
 ---
 
@@ -29,10 +30,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
