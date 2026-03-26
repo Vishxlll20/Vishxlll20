@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | AI Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Vishal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;AI+Builder;Problem+Solver;&center=true&width=500&height=50&color=FF4B4B&size=24&duration=3000&pause=1000">
+</p>
+
+<h3 align="center">Turning ideas into scalable products with MERN & AI 💡🚀</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishxlll20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,7 +16,7 @@
 ## 🌟 About Me
 - 🚀 I build products not just projects
 - 💻 Full Stack Developer blending **MERN + AI** to solve real-world problems
-- 🧠 Exploring **GenAI, RAG, and intelligent systems**
+- 🧠 Exploring **GenAI, RAG and intelligent systems**
 - ⚡ Obsessed with growth, consistency and leveling up every day
 
 
@@ -51,6 +57,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
 ### 🤖 AI / ML / GenAI
@@ -67,6 +74,8 @@
 
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
@@ -86,6 +95,9 @@
 
 ## 🔥 GitHub Streak
 ![streak](https://streak-stats.demolab.com?user=vishxlll20&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxlll20&theme=react-dark" />
+</p>
 
 ---
 
