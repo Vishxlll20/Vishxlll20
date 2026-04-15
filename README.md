@@ -117,11 +117,11 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/vishxlll20/YOUR_PROJECT_1">
+<a href="https://github.com/Vishxlll20/Moodify">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishxlll20&repo=YOUR_PROJECT_1&theme=radical" />
 </a>
 
-<a href="https://github.com/vishxlll20/YOUR_PROJECT_2">
+<a href="https://github.com/Vishxlll20/AI-Gauntlet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishxlll20&repo=YOUR_PROJECT_2&theme=radical" />
 </a>
 
