@@ -87,9 +87,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=vishxlll20&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishxlll20&layout=compact&theme=radical)
+## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=Vishxlll20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
