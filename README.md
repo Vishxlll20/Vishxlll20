@@ -116,11 +116,11 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/Vishxlll20/Moodify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishxlll20&repo=YOUR_PROJECT_1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishxlll20&repo=Moodify&theme=radical" />
 </a>
 
-<a href="https://github.com/Vishxlll20/AI-Gauntlet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishxlll20&repo=YOUR_PROJECT_2&theme=radical" />
+<a href="https://github.com/Vishxlll20/PulseWatch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishxlll20&repo=PulseWatch&theme=radical" />
 </a>
 
 ---
