@@ -85,11 +85,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
-## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=Vishxlll20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 🔥 GitHub Streak
 ![streak](https://streak-stats.demolab.com?user=vishxlll20&theme=radical)
