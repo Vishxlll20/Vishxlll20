@@ -30,9 +30,6 @@
 <h3 align="center">Turning ideas into scalable products with MERN & AI 💡🚀</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishxlll20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
