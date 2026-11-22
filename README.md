@@ -21,6 +21,20 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Featured production projects"/></picture>
 
+<div align="center">
+
+<p align="center">
+  <a href="https://pulsewatch-zeta.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PULSEWATCH-LIVE_DEMO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PULSEWATCH-LIVE_DEMO-ffffff?style=flat-square&logoColor=000000" alt="PulseWatch Live"/></picture></a>
+  &nbsp;
+  <a href="https://moodify-beige-kappa.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MOODIFY-LIVE_DEMO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/MOODIFY-LIVE_DEMO-ffffff?style=flat-square&logoColor=000000" alt="Moodify Live"/></picture></a>
+  &nbsp;
+  <a href="https://github.com/Vishxlll20/lexai-frontend"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LEXAI-FRONTEND_REPO-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/LEXAI-FRONTEND_REPO-ffffff?style=flat-square&logo=github&logoColor=000000" alt="LexAI Frontend"/></picture></a>
+  &nbsp;
+  <a href="https://github.com/Vishxlll20/lexai-backend"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LEXAI-BACKEND_REPO-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/LEXAI-BACKEND_REPO-ffffff?style=flat-square&logo=github&logoColor=000000" alt="LexAI Backend"/></picture></a>
+</p>
+
+</div>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
 
 <div align="center">
