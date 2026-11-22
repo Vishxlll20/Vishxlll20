@@ -1,39 +1,37 @@
 <div align="center">
 
-<img src="./header-v1.svg" alt="Vishal Kumar" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Vishal Kumar"/></picture>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-kumar9"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-  <a href="mailto:vishalk785032@gmail.com?subject=Resume%20Request"><img src="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff" alt="Resume"/></a>
-  <a href="mailto:vishalk785032@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square" alt="Email"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-0d1117?style=flat-square&logo=leetcode&logoColor=ffffff" alt="LeetCode"/></a>
-</p>
+<a href="https://linkedin.com/in/vishal-kumar9"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="mailto:vishalk785032@gmail.com?subject=Resume%20Request"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
+<a href="mailto:vishalk785032@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<a href="https://leetcode.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LEETCODE-0d1117?style=flat-square&logo=leetcode&logoColor=ffffff"/><img src="https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode"/></picture></a>
 
 </div>
 
-<img src="./s01.svg" alt="01 — whoami" width="100%" />
-<img src="./whoami.svg" alt="About Vishal" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Vishal"/></picture>
 
-<img src="./s02.svg" alt="02 — system map" width="100%" />
-<img src="./ecosystem.svg" alt="Enterprise scale and metrics" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Enterprise scale and metrics"/></picture>
 
-<img src="./s03.svg" alt="03 — projects" width="100%" />
-<img src="./projects.svg" alt="Featured production projects" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Featured production projects"/></picture>
 
-<img src="./s04.svg" alt="04 — telemetry" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
 
 <div align="center">
 
-<img src="./github-stats.svg" width="97%" alt="GitHub statistics and repository languages" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxlll20&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vishxlll20&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxlll20&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
 </div>
 
-<img src="./s05.svg" alt="05 — the route" width="100%" />
-<img src="./experience.svg" alt="Professional experience at Tata Steel Foundation" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience at Tata Steel Foundation"/></picture>
 
-<img src="./s06.svg" alt="06 — stack" width="100%" />
-<img src="./stack.svg" alt="Technical stack architecture" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack architecture"/></picture>
 
-<img src="./footer.svg" alt="Current operational status" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current operational status"/></picture>
