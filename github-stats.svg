@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 130" width="860" height="130" fill="none">
+  <!-- Top line -->
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#e1e4e8" />
+  
+  <!-- Left Side: Core Telemetry Stats -->
+  <g transform="translate(0, 20)">
+    <text x="0" y="16" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#57606a">TOTAL REPOSITORIES</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="24" font-weight="700" fill="#000000">20+</text>
+    
+    <text x="180" y="16" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#57606a">GSSOC '26 CONTRIBUTIONS</text>
+    <text x="180" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="24" font-weight="700" fill="#000000">25+ PRs</text>
+
+    <text x="380" y="16" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#57606a">ALGORITHMIC PROBLEMS</text>
+    <text x="380" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="24" font-weight="700" fill="#000000">200+ Solved</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="0" y1="78" x2="860" y2="78" stroke="#e1e4e8" stroke-dasharray="2 2" />
+
+  <!-- Bottom: Language Breakdown Bar -->
+  <g transform="translate(0, 94)">
+    <text x="0" y="14" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#57606a">PRIMARY LANGUAGES :</text>
+    <text x="160" y="14" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">TypeScript (42%) · JavaScript (28%) · Python (18%) · C++ (8%) · SQL (4%)</text>
+  </g>
+
+  <!-- Bottom line -->
+  <line x1="0" y1="128" x2="860" y2="128" stroke="#e1e4e8" />
+</svg>

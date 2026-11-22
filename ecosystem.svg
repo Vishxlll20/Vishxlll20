@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 100" width="860" height="100" fill="none">
+  <!-- Column 1 -->
+  <line x1="0" y1="0" x2="205" y2="0" stroke="#d0d7de" />
+  <text x="0" y="24" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606a">// ENTERPRISE SCALE</text>
+  <text x="0" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="26" font-weight="700" fill="#000000">1,700+</text>
+  <text x="0" y="78" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">Active Enterprise Users</text>
+  <text x="0" y="94" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a">Tata Steel Foundation</text>
+
+  <!-- Column 2 -->
+  <line x1="218" y1="0" x2="423" y2="0" stroke="#d0d7de" />
+  <text x="218" y="24" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606a">// AI ARCHITECTURE</text>
+  <text x="218" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="26" font-weight="700" fill="#000000">4 Agents</text>
+  <text x="218" y="78" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">Multi-Agent Legal Pipeline</text>
+  <text x="218" y="94" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a">Claude + Kanoon API + BullMQ</text>
+
+  <!-- Column 3 -->
+  <line x1="436" y1="0" x2="641" y2="0" stroke="#d0d7de" />
+  <text x="436" y="24" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606a">// OPEN SOURCE</text>
+  <text x="436" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="26" font-weight="700" fill="#000000">25+ PRs</text>
+  <text x="436" y="78" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">GSSoC '26 Contributor</text>
+  <text x="436" y="94" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a">Security Patch Merged</text>
+
+  <!-- Column 4 -->
+  <line x1="654" y1="0" x2="860" y2="0" stroke="#d0d7de" />
+  <text x="654" y="24" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606a">// GLOBAL COMPETITIONS</text>
+  <text x="654" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="26" font-weight="700" fill="#000000">Top 1%</text>
+  <text x="654" y="78" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">50+ Countries Finalist</text>
+  <text x="654" y="94" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a">Int. Innovation Challenge</text>
+</svg>
