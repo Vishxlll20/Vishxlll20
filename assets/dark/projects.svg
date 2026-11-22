@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 290" width="860" height="290" fill="none">
+  <!-- Project 01: LexAI -->
+  <g transform="translate(0, 0)">
+    <line x1="0" y1="0" x2="860" y2="0" stroke="#21262d" />
+    <text x="0" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#8b949e">01 / PRODUCTION</text>
+    <text x="860" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e" text-anchor="end">NEXT.JS 16 · CLAUDE · POSTGRES · BULLMQ</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="16" font-weight="700" fill="#ffffff">LexAI — Autonomous Legal Research &amp; Drafting Platform</text>
+    <text x="0" y="66" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• 4-Agent pipeline: Research, drafting, compliance, and hallucination verification against Indian Kanoon API.</text>
+    <text x="0" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• 20+ REST APIs across 11 services · BullMQ async queues for doc generation and voice transcription · Razorpay SaaS.</text>
+  </g>
+
+  <!-- Project 02: PulseWatch -->
+  <g transform="translate(0, 98)">
+    <line x1="0" y1="0" x2="860" y2="0" stroke="#21262d" />
+    <text x="0" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#8b949e">02 / SRE ENGINE</text>
+    <text x="860" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e" text-anchor="end">NODE.JS · SOCKET.IO · REDIS · MONGODB</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="16" font-weight="700" fill="#ffffff">PulseWatch — Distributed Real-Time Uptime &amp; Incident Monitor</text>
+    <text x="0" y="66" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Continuous automated health sweeps at 15–3600s dynamic intervals supporting 24/7 service availability.</text>
+    <text x="0" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Real-time WebSocket incident broadcasting with AI-driven root-cause summaries · RBAC &amp; JWT authentication.</text>
+  </g>
+
+  <!-- Project 03: Moodify -->
+  <g transform="translate(0, 196)">
+    <line x1="0" y1="0" x2="860" y2="0" stroke="#21262d" />
+    <text x="0" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#8b949e">03 / VISION AI</text>
+    <text x="860" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e" text-anchor="end">REACT · MEDIAPIPE · REDIS · IMAGEKIT</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Moodify — On-Device Computer Vision Audio Engine</text>
+    <text x="0" y="66" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• MediaPipe facial expression classification categorizing 5 moods in real-time on-device.</text>
+    <text x="0" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Redis caching &amp; ImageKit CDN reduced asset load times by 40% · Interactive GSAP motion UI.</text>
+  </g>
+  <line x1="0" y1="288" x2="860" y2="288" stroke="#21262d" />
+</svg>

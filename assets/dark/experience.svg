@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 190" width="860" height="190" fill="none">
+  <!-- Role 1 -->
+  <g transform="translate(0, 0)">
+    <line x1="0" y1="0" x2="860" y2="0" stroke="#21262d" />
+    <text x="0" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">2026 // MAR – JUL · HYBRID</text>
+    <text x="860" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e" text-anchor="end">JAMSHEDPUR, IN</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Artificial Intelligence Intern — Tata Steel Foundation</text>
+    <text x="0" y="66" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Built &amp; benchmarked bidirectional English↔Hindi speech translation pipeline (faster-whisper, deep-translator, gTTS).</text>
+    <text x="0" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Migrated backend into decoupled Node.js + Python microservices deployed over Cloudflare Tunnels.</text>
+  </g>
+
+  <!-- Role 2 -->
+  <g transform="translate(0, 96)">
+    <line x1="0" y1="0" x2="860" y2="0" stroke="#21262d" />
+    <text x="0" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">2025 // MAY – JUL · ON-SITE</text>
+    <text x="860" y="22" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e" text-anchor="end">JAMSHEDPUR, IN</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Software Developer Intern — Tata Steel Foundation</text>
+    <text x="0" y="66" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Engineered scalable internal intranet portal in React.js and SQL, directly supporting 1,700+ enterprise employees.</text>
+    <text x="0" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">• Delivered 5 core enterprise modules with 100% data consistency verified across relational databases.</text>
+  </g>
+  <line x1="0" y1="188" x2="860" y2="188" stroke="#21262d" />
+</svg>

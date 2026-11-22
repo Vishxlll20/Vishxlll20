@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 128" width="860" height="128" fill="none">
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#e1e4e8" stroke-dasharray="2 2" />
+  
+  <text x="0" y="28" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#57606a">focus</text>
+  <text x="120" y="28" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#000000">Full-Stack Web Architectures &amp; Multi-Agent AI Systems</text>
+  
+  <text x="0" y="54" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#57606a">experience</text>
+  <text x="120" y="54" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#000000">Tata Steel Foundation (AI &amp; SWE Intern) · Internal Intranet &amp; Speech AI</text>
+  
+  <text x="0" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#57606a">architecture</text>
+  <text x="120" y="80" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#000000">Distributed Node.js/Python Services · BullMQ · Anthropic Claude · PostgreSQL</text>
+  
+  <text x="0" y="106" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#57606a">algorithms</text>
+  <text x="120" y="106" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#000000">200+ Problems Solved (LeetCode &amp; GFG) · HackerRank SQL Certified</text>
+  
+  <line x1="0" y1="126" x2="860" y2="126" stroke="#e1e4e8" stroke-dasharray="2 2" />
+</svg>
