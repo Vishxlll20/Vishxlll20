@@ -22,8 +22,8 @@
 
   <!-- Column 4 -->
   <line x1="654" y1="0" x2="860" y2="0" stroke="#d0d7de" />
-  <text x="654" y="24" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606a">// GLOBAL COMPETITIONS</text>
-  <text x="654" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="26" font-weight="700" fill="#000000">Top 1%</text>
-  <text x="654" y="78" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">50+ Countries Finalist</text>
+  <text x="654" y="24" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#57606a">// GLOBAL HACKATHON</text>
+  <text x="654" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="26" font-weight="700" fill="#000000">Finalist</text>
+  <text x="654" y="78" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#000000">Teams from 50+ Countries</text>
   <text x="654" y="94" font-family="'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a">Int. Innovation Challenge</text>
 </svg>
