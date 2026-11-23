@@ -59,7 +59,7 @@ ROWS = [
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "Real-time English<->Hindi speech translator"),
-    ("bul", "200+ DSA problems solved"),
+    ("bul", "350+ DSA problems solved"),
     ("bul", "GSSoC 2026 open-source contributor"),
 ]
 
